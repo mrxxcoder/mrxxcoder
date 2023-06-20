@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/lowkeylu__" target="blank"><img src="https://img.shields.io/twitter/follow/lowkeylu__?logo=twitter&style=for-the-badge" alt="lowkeylu__" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Javascript , OOP , Algorithms , Data Structures**
 
